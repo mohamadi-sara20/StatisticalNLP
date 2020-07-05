@@ -1,4 +1,4 @@
-# Statistical Methods in Natural Language Processing Course
+## Statistical Methods in Natural Language Processing Course
 ## University of Tehran
 ## 2019
 
