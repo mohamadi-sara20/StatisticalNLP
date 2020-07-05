@@ -1,6 +1,6 @@
-# Statistical Methods in Natural Language Processing Course#
-#University of Tehran#
-#2019#
+# Statistical Methods in Natural Language Processing Course
+##University of Tehran
+##2019
 
 [HW1 Specification](http://dsp.ut.ac.ir/en/wp-content/uploads/2019/10/StatNLP-HW1-Prob-1398-1.pdf)
 
